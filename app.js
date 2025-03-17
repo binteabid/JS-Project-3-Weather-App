@@ -1,5 +1,5 @@
 
-document.write('<nav class="navbar" >     <div class="container-fluid">         <a class="navbar-brand" href="#" >            <img src="./assets/images/logo.png" alt="Logo" width="200" height="120"                 class="d-inline-block align-text-top"></a>  </div></nav>')
+document.write('<nav class="navbar" >     <div class="container-fluid">         <a class="navbar-brand" href="#" >            <img src="./assets/images/logo.png" alt="Logo" width="200" height="100"                 class="d-inline-block align-text-top"></a>  </div></nav>')
 
 let userName = prompt("Enter your name");
 let cityName = prompt("Enter your city name");
